@@ -7,3 +7,12 @@ c:\users\ana\documents\visual studio 2017\Projects\HRApplication\HRApplication\o
 c:\users\ana\documents\visual studio 2017\Projects\HRApplication\HRApplication\bin\Debug\netcoreapp1.1\HRApplication.pdb
 c:\users\ana\documents\visual studio 2017\Projects\HRApplication\HRApplication\obj\Debug\netcoreapp1.1\HRApplication.dll
 c:\users\ana\documents\visual studio 2017\Projects\HRApplication\HRApplication\obj\Debug\netcoreapp1.1\HRApplication.pdb
+C:\Users\DOIT_DOTNET_USER14\Desktop\HRApplication\HRApplication\bin\Debug\netcoreapp1.1\HRApplication.deps.json
+C:\Users\DOIT_DOTNET_USER14\Desktop\HRApplication\HRApplication\bin\Debug\netcoreapp1.1\HRApplication.runtimeconfig.json
+C:\Users\DOIT_DOTNET_USER14\Desktop\HRApplication\HRApplication\bin\Debug\netcoreapp1.1\HRApplication.runtimeconfig.dev.json
+C:\Users\DOIT_DOTNET_USER14\Desktop\HRApplication\HRApplication\bin\Debug\netcoreapp1.1\HRApplication.dll
+C:\Users\DOIT_DOTNET_USER14\Desktop\HRApplication\HRApplication\bin\Debug\netcoreapp1.1\HRApplication.pdb
+C:\Users\DOIT_DOTNET_USER14\Desktop\HRApplication\HRApplication\obj\Debug\netcoreapp1.1\HRApplication.csprojResolveAssemblyReference.cache
+C:\Users\DOIT_DOTNET_USER14\Desktop\HRApplication\HRApplication\obj\Debug\netcoreapp1.1\HRApplication.AssemblyInfo.cs
+C:\Users\DOIT_DOTNET_USER14\Desktop\HRApplication\HRApplication\obj\Debug\netcoreapp1.1\HRApplication.dll
+C:\Users\DOIT_DOTNET_USER14\Desktop\HRApplication\HRApplication\obj\Debug\netcoreapp1.1\HRApplication.pdb
