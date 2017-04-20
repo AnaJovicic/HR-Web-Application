@@ -1,0 +1,9 @@
+c:\users\ana\documents\visual studio 2017\Projects\HRApplication\HRApplication\bin\Debug\netcoreapp1.1\HRApplication.deps.json
+c:\users\ana\documents\visual studio 2017\Projects\HRApplication\HRApplication\bin\Debug\netcoreapp1.1\HRApplication.runtimeconfig.json
+c:\users\ana\documents\visual studio 2017\Projects\HRApplication\HRApplication\bin\Debug\netcoreapp1.1\HRApplication.runtimeconfig.dev.json
+c:\users\ana\documents\visual studio 2017\Projects\HRApplication\HRApplication\bin\Debug\netcoreapp1.1\HRApplication.dll
+c:\users\ana\documents\visual studio 2017\Projects\HRApplication\HRApplication\obj\Debug\netcoreapp1.1\HRApplication.csprojResolveAssemblyReference.cache
+c:\users\ana\documents\visual studio 2017\Projects\HRApplication\HRApplication\obj\Debug\netcoreapp1.1\HRApplication.AssemblyInfo.cs
+c:\users\ana\documents\visual studio 2017\Projects\HRApplication\HRApplication\bin\Debug\netcoreapp1.1\HRApplication.pdb
+c:\users\ana\documents\visual studio 2017\Projects\HRApplication\HRApplication\obj\Debug\netcoreapp1.1\HRApplication.dll
+c:\users\ana\documents\visual studio 2017\Projects\HRApplication\HRApplication\obj\Debug\netcoreapp1.1\HRApplication.pdb
